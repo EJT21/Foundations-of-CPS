@@ -190,4 +190,4 @@ class Averager
    {
       return count;
    }
-}
+}//
