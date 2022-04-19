@@ -378,6 +378,7 @@ class Node<E>
     {
         link=l;
     }
+    //intersection of linkedlist method
     public Node<E> ii(Node<E> a, Node<E> b)
     {
         if(a==null || b==null)
