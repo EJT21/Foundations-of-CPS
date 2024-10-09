@@ -1,2 +1,1 @@
-I will be creating classes for advanced data structures such as trees, heaps,linkedlists, and other data structures. I will also be combining an advanced data structure and algorithim to tackle questions from leetcode and other sources. 
-
+This repo was used for the course, foundations of Computer Science. This repo contains Java code for different sorting algorithms and data structures. 
