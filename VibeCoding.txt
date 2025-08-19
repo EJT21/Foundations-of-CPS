@@ -1,2 +1,28 @@
 # Vibe Coding
 
+What is vibe coding? 
+
+Vibe coding is using AI coding agents to generate software with minimal manual coding. 
+
+Vibe Coding is different than normal coding in that it: 
+
+- Users write as little manual code as possible. 
+- Users relay information about bugs and errors to the AI and let the AI solve them instead of manually debugging.
+- The apps are typically less securem harder to read, and harder to maintain.
+
+Pros of vibe coding: 
+
+- Good for rapid prototyping or MVP development
+- Good for personal tools (static websites)
+- Good for single use apps (Send an email every morning)
+
+Cons of vibe coding: 
+
+- Often produces insecure code by using outdated packages
+- "The tipping point problem" - code works for awhile then the architecture fails
+- Not great for long term maintenance programs
+
+Platforms: 
+
+- Replit, Loveable, OpenAI's Canvas, Claude Artifacts, Cursor, and windsurf.
+
